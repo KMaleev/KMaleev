@@ -1,2 +1,0 @@
-# KMaleev
-test repository
